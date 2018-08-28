@@ -8,5 +8,5 @@ class Student
     @grade = grade
   end
 
-  
+
 end
